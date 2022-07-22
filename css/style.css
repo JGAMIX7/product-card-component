@@ -104,7 +104,6 @@ p.description {
   background-color: hsl(158, 36%, 32%);
 }
 
-
 /* RESPONSIVE */
 @media screen and (max-width: 560px) {
   .card {
